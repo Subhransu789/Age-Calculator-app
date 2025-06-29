@@ -21,8 +21,10 @@ CSS – Styling and layout
 
 JavaScript – Core age calculation logic
 
-🙋‍♂️ Author
-Subhransu Sekhar Nayak
-📧 subhransusekharnayak832@gmail.com
-🔗 linkedin.com/in/subhransusekharnayak
-🔗 GitHub:- github.com/Subhransu789
+## 🙋‍♂️ Author
+
+**Subhransu Sekhar Nayak**  
+📧 [subhransusekharnayak832@gmail.com](mailto:subhransusekharnayak832@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/subhransusekharnayak)  
+🔗 [GitHub](https://github.com/Subhransu789)
+
